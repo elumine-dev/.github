@@ -6,6 +6,8 @@
 
 Fast and editor-agnostic. Free of JVM dependencies where it counts.
 
+**3 tools · 2 languages · 4 700+ combined installs · MIT / Apache 2.0**
+
 [![Website](https://img.shields.io/badge/elumine.ca-Website-c160c0?style=flat-square)](https://www.elumine.ca)
 [![License](https://img.shields.io/badge/License-MIT_%2F_Apache_2.0-blue?style=flat-square)](#)
 [![Editors](https://img.shields.io/badge/Editors-VS_Code_%C2%B7_Cursor_%C2%B7_Neovim_%C2%B7_Helix_%C2%B7_Zed-orange?style=flat-square)](#)
@@ -16,7 +18,7 @@ Fast and editor-agnostic. Free of JVM dependencies where it counts.
 
 ## Tools
 
-### ⚡ [kotlin-jump](https://github.com/elumine-dev/kotlin-jump)
+### ⚡ [kotlin-jump](https://github.com/elumine-dev/kotlin-jump) `STABLE`
 
 > VS Code Kotlin and Java navigation. No JVM. No language server.
 
@@ -28,7 +30,7 @@ Fast and editor-agnostic. Free of JVM dependencies where it counts.
 ext install elumine.kotlin-jump
 ```
 
-### 🔍 [SearchDeadCode](https://github.com/KevinDoremy/SearchDeadCode)
+### 🔍 [SearchDeadCode](https://github.com/KevinDoremy/SearchDeadCode) `STABLE`
 
 > Fast Rust CLI to detect and safely remove dead code in Android projects.
 
@@ -40,7 +42,7 @@ ext install elumine.kotlin-jump
 brew install KevinDoremy/tap/searchdeadcode
 ```
 
-### 🩺 [detekt-lsp](https://github.com/elumine-dev/detekt-lsp)
+### 🩺 [detekt-lsp](https://github.com/elumine-dev/detekt-lsp) `PRE-ALPHA`
 
 > Live [detekt](https://detekt.dev) diagnostics for any LSP-compatible editor.
 
@@ -77,6 +79,10 @@ No single tool replaces the others. Use one. Use all three. Same philosophy acro
 
 ## Maintainer
 
-Run by [**Kevin Doremy Laferrière**](https://kevindoremy.com), `ing.` (OIQ #6045500, Software and AI practice area). Senior Mobile Engineer at La Presse. 5+ years across iOS and Android, with a focus on Kotlin Multiplatform and mobile DevEx.
+Run by [**Kevin Doremy Laferrière**](https://kevindoremy.com), `ing.` (OIQ #6045500, Software and Artificial Intelligence practice area).
+
+Senior Mobile Engineer at **La Presse** (apps with 1M+ downloads, 4 million monthly readers). Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) leading the Kotlin Multiplatform migration in a regulated financial environment.
+
+5+ years iOS and Android. Software Engineering BSc from ÉTS (GPA 4.0). MBA starting September 2026. Bilingual French / English.
 
 [🌐 elumine.ca](https://www.elumine.ca) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/kevindoremy) &nbsp;·&nbsp; [✉️ hello@elumine.ca](mailto:hello@elumine.ca)
