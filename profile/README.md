@@ -6,7 +6,7 @@
 
 Fast and editor-agnostic. Free of JVM dependencies where it counts.
 
-**3 tools · 2 languages · 4 700+ combined installs · MIT / Apache 2.0**
+**3 tools · 2 languages · Kotlin-first · MIT / Apache 2.0**
 
 [![Website](https://img.shields.io/badge/elumine.ca-Website-c160c0?style=flat-square)](https://www.elumine.ca)
 [![License](https://img.shields.io/badge/License-MIT_%2F_Apache_2.0-blue?style=flat-square)](#)
@@ -22,7 +22,7 @@ Fast and editor-agnostic. Free of JVM dependencies where it counts.
 
 > VS Code Kotlin and Java navigation. No JVM. No language server.
 
-**4 658 installs · ★ 5.0 · v1.18.3 · 1 045 versions shipped**
+**6 237 installs · ★ 5.0 · v1.18.3 · 1 092 versions shipped**
 
 < 1 ms lookups · 3 000+ files indexed in < 500 ms · 109× faster than JVM parsers. Works in VS Code, Cursor, VSCodium, Windsurf, Gitpod, and most other VS Code forks.
 
