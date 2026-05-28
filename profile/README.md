@@ -18,7 +18,7 @@ Fast and editor-agnostic. Free of JVM dependencies where it counts.
 
 ## Tools
 
-### ⚡ [kotlin-jump](https://github.com/elumine-dev/kotlin-jump) `STABLE`
+### ⚡ [Kotlin Jump](https://github.com/elumine-dev/kotlin-jump) `STABLE`
 
 > VS Code Kotlin and Java navigation. No JVM. No language server.
 
@@ -42,7 +42,7 @@ ext install elumine.kotlin-jump
 brew install KevinDoremy/tap/searchdeadcode
 ```
 
-### 🩺 [detekt-lsp](https://github.com/elumine-dev/detekt-lsp) `PRE-ALPHA`
+### 🩺 [Detekt LSP](https://github.com/elumine-dev/detekt-lsp) `PRE-ALPHA`
 
 > Live [detekt](https://detekt.dev) diagnostics for any LSP-compatible editor.
 
@@ -60,9 +60,9 @@ The three tools are designed to work together:
 
 | You write Kotlin in... | And get... |
 |---|---|
-| **VS Code / Cursor** | Navigation via kotlin-jump + diagnostics via detekt-lsp |
+| **VS Code / Cursor** | Navigation via Kotlin Jump + diagnostics via Detekt LSP |
 | **A standalone CLI** | Dead code audits via SearchDeadCode in CI |
-| **Any LSP editor** | detekt-lsp speaks the protocol your editor already understands |
+| **Any LSP editor** | Detekt LSP speaks the protocol your editor already understands |
 
 No single tool replaces the others. Use one. Use all three. Same philosophy across the stack.
 
