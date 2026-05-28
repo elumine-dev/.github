@@ -81,7 +81,7 @@ No single tool replaces the others. Use one. Use all three. Same philosophy acro
 
 Run by [**Kevin Doremy Laferrière**](https://kevindoremy.com) ([@KevinDoremy](https://github.com/KevinDoremy)), `ing.` (OIQ #6045500, Software and Artificial Intelligence practice area).
 
-Senior Mobile Engineer at **La Presse** (apps with 1M+ downloads, 4 million monthly readers). Previously 4 years at **BDC** (Canada's federal development bank, 2022-2025) leading the Kotlin Multiplatform migration in a regulated financial environment.
+Senior Mobile Engineer at **La Presse** (apps with 1M+ downloads, 4 million monthly readers). Previously 4 years at **BDC** (Canada's federal development bank, 2021-2025) leading the Kotlin Multiplatform migration in a regulated financial environment.
 
 5+ years iOS and Android. Software Engineering BSc from ÉTS (GPA 4.0). MBA at HEC Montréal, admitted, starting January 2027. Bilingual French / English.
 
