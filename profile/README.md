@@ -42,15 +42,17 @@ ext install elumine.kotlin-jump
 brew install KevinDoremy/tap/searchdeadcode
 ```
 
-### 🩺 [Detekt LSP](https://github.com/elumine-dev/detekt-lsp) `PRE-ALPHA`
+### 🩺 [Detekt LSP](https://github.com/elumine-dev/detekt-lsp) `ALPHA v0.1.0`
 
 > Live [detekt](https://detekt.dev) diagnostics for any LSP-compatible editor.
 
-**Pre-alpha (M0) · Apache 2.0**
+**v0.1.0-alpha · Apache 2.0**
 
-Targets sub-100 ms diagnostics on every keystroke. Embeds `detekt-core` inside an LSP server with a live PSI cache and per-file invalidation. Works in VS Code, Cursor, Neovim, Helix, and Zed.
+```bash
+code --install-extension elumine.detekt-lsp
+```
 
-> Status: M0 skeleton. ETA M2 (live syntactic diagnostics): mid-2026.
+LSP server that brings detekt into VS Code, Cursor, Neovim, Helix, and Zed. Shipped June 2026 on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=elumine.detekt-lsp) and [Open VSX](https://open-vsx.org/extension/elumine/detekt-lsp). Embeds `kotlin-compiler-embeddable` and publishes one LSP diagnostic per parse error today; detekt Tier 1 rules land in M2 (Q2-Q3 2026).
 
 ---
 
