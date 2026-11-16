@@ -85,6 +85,6 @@ Run by [**Kevin Doremy Laferrière**](https://kevindoremy.com) ([@KevinDoremy](h
 
 Senior Mobile Engineer at **La Presse** (apps with 1M+ downloads, 4 million monthly readers). Previously 3 years at **BDC** (Canada's federal development bank, 2022-2025) leading the Kotlin Multiplatform migration in a regulated financial environment.
 
-5+ years iOS and Android. Software Engineering BSc from ÉTS (GPA 4.0). MBA at HEC Montréal, admitted, starting January 2027. Bilingual French / English.
+5+ years iOS and Android. Software Engineering BSc from ÉTS (GPA 4.0). MBA in progress at Université de Sherbrooke. Bilingual French / English.
 
 [🌐 elumine.ca](https://www.elumine.ca) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/kevindoremy) &nbsp;·&nbsp; [✉️ hello@elumine.ca](mailto:hello@elumine.ca)
